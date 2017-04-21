@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-
-"""
-Igra ugani skrito število
-Avtor: Tjaša K. Petrič
-
-Računalnik bo naključno izbral število.
-Poskusi so omejeni na 4, nato napiše skrito število.
-"""
 
 # -*- coding: utf-8 -*-
 
